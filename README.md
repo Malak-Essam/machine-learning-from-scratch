@@ -3,7 +3,7 @@ machine learning algorithm from scratch
 the algorithm until now
 using gradient decent:
 # regression:
-  ## Linear regression one feature
+  * Linear regression one feature
   ## Linear regression multiple features
   ## Linear regression multiple features with regularization
 
